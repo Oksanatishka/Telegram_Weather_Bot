@@ -1,3 +1,6 @@
 Resources:
 - https://chatbotslife.com/how-to-write-the-weather-telegram-bot-using-node-5d8efdd46d22
 - https://scotch.io/tutorials/how-to-build-a-telegram-bot-using-nodejs-and-now
+
+How to use:
+Find bot called 'oksana's weather bot' in Telegram.
